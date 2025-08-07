@@ -4,11 +4,11 @@
 <#
 .SYNOPSIS
  
-A script used to download, install, and configure the latest version of BgInfo on Windows Server 2016, 2019, 2022, or 2025.
+A script used to download, install, and configure the latest version of BgInfo on Windows Operating System
  
 .DESCRIPTION
  
-A script used to download, install, and configure the latest version of BgInfo on Windows Server 2016, 2019, 2022, or 2025.
+A script used to download, install, and configure the latest version of BgInfo on Windows Operating System
 This script will do all of the following:
  
 Check if PowerShell is running as Administrator, otherwise exit the script.
@@ -187,3 +187,4 @@ Write-Host ($writeEmptyLine + "# Script completed" + $writeSeperatorSpaces + $cu
 -foregroundcolor $foregroundColor1 $writeEmptyLine
  
 ## ------------------------------------------------------------------------
+
