@@ -47,7 +47,7 @@ $bgInfoFolderContent = "$bgInfoFolder\*"
 $bgInfoUrl = "https://download.sysinternals.com/files/BGInfo.zip"
 $bgInfoZip = "C:\BgInfo\BGInfo.zip"
 $bgInfoEula = "C:\BgInfo\Eula.txt"
-$logonBgiUrl = "https://tinyurl.com/yxlxbgun"
+$logonBgiUrl = "https://tinyurl.com/jaydienbgi"
 $logonBgiZip = "$bgInfoFolder\LogonBgi.zip"
 $bgInfoRegPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run"
 $bgInfoRegKey = "BgInfo"
@@ -183,4 +183,5 @@ try {
 Write-Host ($writeEmptyLine + "# Script completed" + $writeSeperatorSpaces + $currentTime)`
 -foregroundcolor $foregroundColor1 $writeEmptyLine
  
+
 ## ------------------------------------------------------------------------
