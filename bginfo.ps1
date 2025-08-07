@@ -26,7 +26,7 @@ Last Modified: 03/04/2025
 Author:        Wim Matthyssen
 PowerShell:    Version 5.1 or later
 Requires:      -RunAsAdministrator
-OS Support:    Windows Server 2016, 2019, 2022, and 2025
+OS Support:    Windows Operating System
 Version:       3.2
 Note:          Update variables as needed to fit your environment
 Disclaimer:    This script is provided "As Is" without any warranties.
@@ -187,4 +187,5 @@ Write-Host ($writeEmptyLine + "# Script completed" + $writeSeperatorSpaces + $cu
 -foregroundcolor $foregroundColor1 $writeEmptyLine
  
 ## ------------------------------------------------------------------------
+
 
